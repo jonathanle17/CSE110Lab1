@@ -1,5 +1,6 @@
 # **Jonathan Le's User Page**
 >CSE110 Lab1
+
 'git status'
 
 ## **Bio**
@@ -22,8 +23,9 @@ ToDo List:
 ### **People**
 ![LeBron](https://cdn.nba.com/manage/2023/02/lebron-james-no1-2048x1152.jpg)
 
-Linkedin Profile: [Jonathan Le]((https://www.linkedin.com/in/jonathan-le-245962310/))
+Linkedin Profile: [Jonathan Le](https://www.linkedin.com/in/jonathan-le-245962310/)
 
-[Contributors](docs/CONTRIBUTORS.md)
+[Contributors](CONTRIBUTORS.md)
+
 [Back to Top](#jonathan-les-user-page)
 
