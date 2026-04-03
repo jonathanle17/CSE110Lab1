@@ -1,7 +1,7 @@
 # **Jonathan Le's User Page**
 >CSE110 Lab1
 
-'git status'
+`git status`
 
 ## **Bio**
 Languages:
