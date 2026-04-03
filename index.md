@@ -6,19 +6,19 @@
 ## **Bio**
 Languages:
 - English
-- Vietnamese
+- **Vietnamese**
 - C++
   
 Sports:
 1. Basketball
 2. Football
-3. Pickleball
+3. **Pickleball**
 4. Badminton
 5. Baseball
 
 ToDo List:
 - [x] Finish this website
-- [] Succeed in class
+- [ ] Succeed in class
 
 ### **People**
 ![LeBron](https://cdn.nba.com/manage/2023/02/lebron-james-no1-2048x1152.jpg)
